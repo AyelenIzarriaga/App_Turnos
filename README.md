@@ -85,3 +85,10 @@ json
   "idCliente": 1,
   "idProfesional": 2
 }
+## 🔮 Próximos pasos
+
+- Migrar a Spring Boot
+- Exponer API REST funcional
+- Persistencia con MySQL + JPA/Hibernate
+- Implementar cancelación de turnos
+- Agregar tests unitarios con JUnit y Mockito
